@@ -2,3 +2,5 @@
 first commoit
 second commit
 c
+before reset
+after
